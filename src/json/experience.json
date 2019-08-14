@@ -1,42 +1,41 @@
 [
   {
-    "company": "@Clearlink",
-    "dates": "January 2018 — Current",
-    "position": "Front End Developer",
-    "copy": "At Clearlink I create SEO driven websites to generate new customers for our brand partners. I work closely with SEO specialists, designers and marketers to create responsive sites.",
+    "company": "@ChurchOfJesusChrist",
+    "dates": "Feburary 2019 — Current",
+    "position": "Software Dev Engineer",
+    "copy": "At the Church, I create SEO driven websites to generate new customers for our brand partners. I work closely with SEO specialists, designers and marketers to create responsive sites.",
     "jobFeatures": [
       "React",
-      "PHP",
-      "Handlebars",
-      "Jira",
-      "Sketch",
-      "GitHub"
+      "Nextjs",
+      "Javascript",
+      "Jira/Bitbucket",
+      "Git",
+      "Jest/Enzyme"
     ],
     "open": true
   },
   {
-    "company": "@Calldrip",
-    "dates": "July 2017 — January 2018",
-    "position": "Software Developer",
-    "copy": "Calldrip is a small software company based in Utah. I functioned as a full stack developer helping them to add features and improve their web-based customer lead generation software.",
+    "company": "@JusticeWorks",
+    "dates": "July 2017 — February 2019",
+    "position": "Web Developer",
+    "copy": "Justice Works LLC. is a small software company based in Centerville, Utah. I functioned as a full stack developer helping them to add features and improve their web-based customer lead generation software.",
     "jobFeatures": [
-      "PHP",
-      "jQuery",
-      "Google Cloud Platform",
-      "Trello",
-      "MySQL",
-      "HelpScout",
-      "Bitbucket"
+      "HTML",
+      "CSS",
+      "SQL Server",
+      "In-house Framework",
+      "C#",
+      "Javascript"
     ],
     "open": false
   },
   {
-    "company": "@Hill Air Force Base",
-    "dates": "May 2016 — July 2017",
-    "position": "Software Engineering Intern",
+    "company": "@Boostability",
+    "dates": "April 2017 — July 2017",
+    "position": "Website Copywriter",
     "copy": "I worked for the United States Air Force as a civilian during college. I worked for the software maintenance group working on f-16's.",
     "jobFeatures": [
-      "Security Clearance",
+      "Writing",
       "ADA",
       "Python",
       "Java",
@@ -45,17 +44,17 @@
     "open": false
   },
   {
-    "company": "@Weber State University",
-    "dates": "December 2015 — May 2016",
-    "position": "Software Development Intern",
+    "company": "@V-School",
+    "dates": "August 2016 — November 2016",
+    "position": "Bootcamp Student",
     "copy": "My first dev job. I did customer support and added small features and tweaks to Chitester, Weber State's own testing software. It was my first opportunity to work with a large existing production codebase.",
     "jobFeatures": [
-      "ColdFusion",
-      "Node",
-      "MySQL",
-      "Asana",
-      "HTML",
-      "JavaScript"
+      "Javascript",
+      "HTML5",
+      "CSS3",
+      "MongoDM",
+      "Expressjs",
+      "Angularjs"
     ],
     "open": false
   }
