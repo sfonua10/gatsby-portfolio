@@ -20,12 +20,12 @@
     "position": "Web Developer",
     "copy": "Justice Works LLC. is a small software company based in Centerville, Utah. I functioned as a full stack developer helping them to add features and improve their web-based customer lead generation software.",
     "jobFeatures": [
-      "HTML",
-      "CSS",
       "SQL Server",
+      "Javascript",
+      "HTML/CSS",
       "In-house Framework",
       "C#",
-      "Javascript"
+      "RDL XML"
     ],
     "open": false
   },
@@ -40,6 +40,21 @@
       "Python",
       "Java",
       "Linux"
+    ],
+    "open": false
+  },
+  {
+    "company": "@saiafonua",
+    "dates": "July 2017 — Present",
+    "position": "Freelance Software Developer",
+    "copy": "Learn. Code. Learn. Code. Learn. Code.",
+    "jobFeatures": [
+      "Gatsbyjs",
+      "Reactjs",
+      "GraphQL",
+      "Javascript",
+      "HTML5",
+      "CSS3"
     ],
     "open": false
   },

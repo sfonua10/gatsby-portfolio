@@ -57,13 +57,13 @@ function SEO({ lang, meta, keywords, title }) {
           "itemListElement": [{
             "@type": "ListItem",
             "position": 1,
-            "name": "Cade.Codes",
-            "item": "https://cade.codes"
+            "name": "Saia.Fonua",
+            "item": "https://saiafonua.com"
           },{
             "@type": "ListItem",
             "position": 2,
             "name": "Home",
-            "item": "https://cade.codes"
+            "item": "https://saiafonua.com"
           }]
         }
       `}</script>
